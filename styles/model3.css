@@ -1,0 +1,12 @@
+body {
+  font-family: Montserrat;
+}
+
+.header {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.underline-finishing {
+  text-decoration: underline;
+}
